@@ -7,10 +7,6 @@ import java.util.Scanner;
 public class AlotInPut {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int I[] = new int[100000];
-		String S[] = new String[100000];
-		
 		Map<Integer, String> I_S = new LinkedHashMap<Integer, String>();
 		@SuppressWarnings("resource")
 		Scanner scanner = new Scanner(System.in);
